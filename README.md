@@ -180,8 +180,6 @@ The interviewer will assess:
 
 ## 🧰 Folder Structure Example
 
-````
-
 .
 ├── data/
 │   ├── events_2025-10-24.csv
@@ -202,8 +200,6 @@ The interviewer will assess:
 │   └── dbt_project.yml
 └── README.md
 
-```
-
 ---
 
 ## 🧭 How to Use
@@ -216,4 +212,5 @@ The interviewer will assess:
 ---
 
 **Good luck — and remember: optimize first, automate second!** 🚀
-```
+
+````
